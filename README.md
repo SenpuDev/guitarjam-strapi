@@ -1,16 +1,16 @@
 # guitarjam-strapi API :page_facing_up::arrow_right::guitar:
 
-![guitarjam-strapi](https://raw.githubusercontent.com/SenpuDev/guitarjam-strapi/main/strapi-banner.png)
+[![guitarjam-strapi](https://raw.githubusercontent.com/SenpuDev/guitarjam-strapi/main/strapi-banner.png)](https://guitarjam-strapi.onrender.com/)
 
  ## API description:
  API built from strapi, with a postgres database hosted on the server.
  Mainly built to practice building apis in a simple way and feed 'guitarjam' frontend (upload soon on github pages)
+ 
  Hope you like it :)
  
- ## ¿Can I see API working?
- <p align="center">Sure, you can visit my deployed API on: https://guitarjam-strapi.onrender.com/ </p>
+ ## ¿Can I see API working?:
  
- ## Here are some example endpoints:
+ Sure, you can visit my deployed API on https://guitarjam-strapi.onrender.com/ or in the following examples:
  ###### Get all guitars :arrow_right: https://guitarjam-strapi.onrender.com/api/guitars
  
  ###### Get all guitars & cloudinary img's :arrow_right: https://guitarjam-strapi.onrender.com/api/guitars?populate=image
