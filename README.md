@@ -4,8 +4,8 @@
 
  ## API description:
  API built from strapi, with a postgres database hosted on the server.
- Mainly built to practice building apis in a simple way and feed 'guitarjam' frontend (upload soon on github pages)
- For sure, it can run any crud action, with the proper permissions.
+ Mainly built to practice building API's in a simple way and feed 'guitarjam' frontend (upload soon on github pages).
+ For sure, it can run any CRUD action with the proper permissions.
  
  Hope you like it :)
  
